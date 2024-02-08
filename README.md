@@ -2,7 +2,7 @@
 ## To do's 
 ### 1. <ins>Identify internal in-house generated scRNA-seq datasets of the mouse nervous system</ins>
  * Rosi Lab: TBI 1dpi (single nuc) _have to ask Kristof the link_
- * Rosi Lab: [TBI 7dpi (single nuc)](https://rstudio.lab.altoslabs.com/content/3397a14a-18ba-4195-959a-ae6e0a12fbfe/) 
+ * Rosi Lab: [TBI 7dpi (single nuc)]
  * ?Costa Mattioli Lab: ISR _have to ask Kristof the link_
 
 ### 2. <ins>Identify external publicly available scRNA-seq datasets of the mouse nervous system of interest to the Altos mission</ins>
